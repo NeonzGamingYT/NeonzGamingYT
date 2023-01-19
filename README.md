@@ -3,8 +3,12 @@
 
 - I'm interested in Android 📱</h4>
 
-![](https://komarev.com/ghpvc/?username=neonzgamingyt&color=red&style=for-the-badge)
+### Neonz's GitHub Analytics
+![neonz](https://github-readme-stats-eight-theta.vercel.app/api?username=neonzgamingyt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)
 
-![neonz](https://github-readme-stats.vercel.app/api?username=neonzgamingyt&show_icons=true&theme=tokyonight&hide=["issues"])
+![neonz](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neonzgamingyt&layout=compact&langs_count=8&theme=nightowl)
 
-![neonz](https://github-readme-stats.vercel.app/api/top-langs?username=neonzgamingyt&show_icons=true&theme=tokyonight&layout=compact)
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=neonzgamingyt&style=flat-square"/>
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dneonzgamingyt&longCache=true"/>
+</p>
